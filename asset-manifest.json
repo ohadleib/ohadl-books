@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ohadl-books/static/css/main.445df226.chunk.css",
+    "main.js": "/ohadl-books/static/js/main.fd660e7b.chunk.js",
+    "main.js.map": "/ohadl-books/static/js/main.fd660e7b.chunk.js.map",
+    "runtime-main.js": "/ohadl-books/static/js/runtime-main.3d46c295.js",
+    "runtime-main.js.map": "/ohadl-books/static/js/runtime-main.3d46c295.js.map",
+    "static/js/2.02f8df7c.chunk.js": "/ohadl-books/static/js/2.02f8df7c.chunk.js",
+    "static/js/2.02f8df7c.chunk.js.map": "/ohadl-books/static/js/2.02f8df7c.chunk.js.map",
+    "index.html": "/ohadl-books/index.html",
+    "static/css/main.445df226.chunk.css.map": "/ohadl-books/static/css/main.445df226.chunk.css.map",
+    "static/js/2.02f8df7c.chunk.js.LICENSE.txt": "/ohadl-books/static/js/2.02f8df7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d46c295.js",
+    "static/js/2.02f8df7c.chunk.js",
+    "static/css/main.445df226.chunk.css",
+    "static/js/main.fd660e7b.chunk.js"
+  ]
+}
